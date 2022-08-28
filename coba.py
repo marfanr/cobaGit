@@ -1,4 +1,5 @@
 #!/usr/bin/python
 
-print("hello world")
-print('up')
+import numpy as np
+
+print(np.arange(100))
